@@ -2,23 +2,23 @@ body,html{width:100%;height:100%}body{font-family:Merriweather,'Helvetica Neue',
 
 img.imgh{
     position:relative;
+    top:125px;
     border-radius:5px;
+    left:150px;
+    padding:2px;
     border: 1px solid #ddd;
-    height:auto;
-    max-width:100%;
-}
-
-#boxing{
-
 }
 
 #al{
    position:relative;
-
+   box-align:center;
+   left:230px;
 }
 
 #pos{
 
     position:relative;
+    box-align:center;
+    left:260px;
 }
 
