@@ -21,6 +21,14 @@ img.imgh{
     margin: 0 auto ;
 }
 
+#se{
+    position:relative;
+   box-align:center;
+    text-align: center;
+    display: block; 
+    margin: 0 auto ;
+}
+
 #pos{
 
     position:relative;
